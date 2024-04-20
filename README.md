@@ -1,6 +1,6 @@
  
 <h1 align="center">Shanthinath Shital Shedbale</h1>
-<h4 align="center">Node.js Developer | I &heart; JavaScript</h4>
+<h4 align="center">Node.js Developer | I ❤️ JavaScript</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shanthi1710/" target="_blank">
